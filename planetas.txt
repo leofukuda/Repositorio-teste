@@ -6,3 +6,4 @@ coruscant
 endor
 ricoooo
 tartaruga
+Blastoise
